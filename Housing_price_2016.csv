@@ -1,4 +1,4 @@
-RegionID,SizeRank,RegionName,RegionType,StateName,State,Metro,StateCodeFIPS,MunicipalCodeFIPS,2016-06-30
+RegionID,SizeRank,RegionName,RegionType,StateName,State,Metro,StateCodeFIPS,MunicipalCodeFIPS,Price_2016
 3101,0,Los Angeles County,County,CA,CA,Los Angeles-Long Beach-Anaheim,6,37,545962
 139,1,Cook County,County,IL,IL,Chicago-Naperville-Elgin,17,31,221123
 1090,2,Harris County,County,TX,TX,Houston-The Woodlands-Sugar Land,48,201,174712
